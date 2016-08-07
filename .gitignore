@@ -38,3 +38,6 @@ jspm_packages
 
 # babel build folder
 app/build
+
+# electron-builder
+dist
