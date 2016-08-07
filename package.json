@@ -1,0 +1,23 @@
+{
+  "name": "electron-volt",
+  "version": "0.0.1",
+  "description": "Electron boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustintownsend/volt.git"
+  },
+  "keywords": [
+    "electron",
+    "boilerplate"
+  ],
+  "author": "Dustin Townsend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustintownsend/volt/issues"
+  },
+  "homepage": "https://github.com/dustintownsend/volt#readme"
+}
